@@ -13,4 +13,4 @@ This repository is a compilation of Data Science projects completed for self-lea
 
 
 **- Machine Learning.**
-  -   [Heart Disease UCI](https://github.com/Fab1193/DataAnalysis/blob/12daf93009ed4e9a51d2a4a8ae31215e0e821f6a/Heart%20Disease.ipynb): Classification algorithms comparison to discover the model that better accurately predicts whether an individual has or not a heart condition.
+  -   [Heart Disease UCI](https://github.com/Fab1193/DataAnalysis/blob/main/Heart%20Disease.ipynb): Classification algorithms comparison to discover the model that better accurately predicts whether an individual has or not a heart condition.
