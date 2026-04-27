@@ -50,7 +50,7 @@ roas = SAFE_DIVIDE(revenue, cost)
 
 ## Dashboard Preview (https://datastudio.google.com/reporting/7a159557-31ae-4254-af14-246e57ba64a1)
 
-![Looker Studio Dashboard](images/looker_dashboard.png)
+![Looker Studio Dashboard](images/looker_marketing_dashboard.png)
 
 ## Key Insights
 
