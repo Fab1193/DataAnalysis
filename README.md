@@ -27,7 +27,7 @@ My work centers around building end-to-end data solutions, including data extrac
 
 ### Data Pipelines
 
-- [FX Rates API Pipeline](https://github.com/Fab1193/DataAnalysis/tree/main/data_engineering/fx-rates-api-pipeline)  
+- [FX Rates API Pipeline](https://github.com/Fab1193/DataAnalysis/blob/main/data_engineering/fx-rates-api-pipeline/fx_rates_api_pipeline.ipynb)  
   End-to-end pipeline extracting FX rates from an API and loading the data into BigQuery.
 
 - [LLM Comment Sentiment Pipeline](https://github.com/Fab1193/DataAnalysis/tree/main/data_engineering/llm-comment-sentiment-pipeline)  
