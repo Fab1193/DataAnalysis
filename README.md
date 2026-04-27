@@ -7,7 +7,7 @@ My work centers around building end-to-end data solutions, including data extrac
 ## Areas of Focus
 
 - Product Analytics (funnels, conversion, retention)
-- Data Modeling (BigQuery, dbt)
+- Data Modeling (BigQuery, dbt, SQL)
 - Data Pipelines (API ingestion, data workflows)
 - Experimentation & A/B testing
 - Applied Machine Learning & LLM-based analysis
@@ -24,6 +24,11 @@ My work centers around building end-to-end data solutions, including data extrac
 
 - [Heart Disease Classification](data_analysis/heart-disease)  
   Machine learning classification project focused on predicting heart disease using patient-level health indicators.
+
+### SQL Analytics
+
+- [User Conversion Funnel SQL](sql/conversion_funnel/daily_user_conversion_funnel.sql)  
+  BigQuery SQL script that models a user-level purchase funnel, tracks conversion across product events, identifies the furthest step reached, classifies drop-off reasons, and calculates time to convert.
 
 ### Data Pipelines
 
