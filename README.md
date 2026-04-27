@@ -1,4 +1,4 @@
-# Data Science Portfolio by Fabricio Quesada
+# Data Analytics Portfolio by Fabricio Quesada
 
 This repository is a compilation of Data Science projects completed for self-learning and practice purposes. You will find notebooks related to data cleaning, visualization, and Machine Learning algorithms.
 
