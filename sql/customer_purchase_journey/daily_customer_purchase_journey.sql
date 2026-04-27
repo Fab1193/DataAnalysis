@@ -4,10 +4,10 @@ BEGIN
 
   BEGIN TRANSACTION;
 
-  DELETE `portfolio_analytics.marts.user_conversion_funnel_daily`
+  DELETE `portfolio_analytics.gold.daily_customer_purchase_journey`
   WHERE date BETWEEN start_date AND end_date;
 
-  INSERT INTO `portfolio_analytics.gold.user_conversion_funnel_daily` (
+  INSERT INTO `portfolio_analytics.gold.daily_customer_purchase_journey` (
     date,
     country,
     acquisition_channel,
