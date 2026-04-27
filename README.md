@@ -14,16 +14,21 @@ My work centers around building end-to-end data solutions, including data extrac
 
 ## Projects
 
-## Data Analysis
+### Data Analysis
+
 - [Marketing Ads Performance Dashboard](data_analysis/marketing_ads_performance_dashboard)  
   Consolidated Facebook Ads, Google Ads, and TikTok Ads data into a unified BigQuery-style table and built a Looker Studio dashboard to analyze cost, revenue, conversions, CPA, CVR, CTR, and ROAS.
 
-## Data Pipelines
-- FX Rates API Pipeline → End-to-end pipeline extracting data from an API and loading it into BigQuery  
-- LLM Comment Sentiment Pipeline → Pipeline that enriches user comments with LLM-based sentiment analysis (Gemini) and stores results in BigQuery
+- [Apple Product Pricing Analysis](data_analysis/apple-pricing)  
+  Cross-country product pricing analysis comparing Apple product prices across multiple countries.
 
-## Data Analysis & Product Insights
-- Apple Product Pricing Analysis → Cross-country price comparison and insights
+- [Heart Disease Classification](data_analysis/heart-disease)  
+  Machine learning classification project focused on predicting heart disease using patient-level health indicators.
 
-## Machine Learning
-- Heart Disease Classification → Model comparison for predictive performance
+### Data Pipelines
+
+- [FX Rates API Pipeline](data_engineering/fx_rates_api_pipeline)  
+  End-to-end pipeline extracting FX rates from an API and loading the data into BigQuery.
+
+- [LLM Comment Sentiment Pipeline](data_engineering/llm_comment_sentiment_pipeline)  
+  Pipeline that enriches user comments with LLM-based sentiment analysis using Gemini and stores the results in BigQuery.
