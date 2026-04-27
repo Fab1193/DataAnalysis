@@ -14,10 +14,11 @@ My work centers around building end-to-end data solutions, including data extrac
 
 ## Projects
 
-### Data Pipelines
-- FX Rates API Pipeline → End-to-end pipeline extracting data from an API and loading it into BigQuery
+## Data Pipelines
+- FX Rates API Pipeline → End-to-end pipeline extracting data from an API and loading it into BigQuery  
+- LLM Comment Sentiment Pipeline → Pipeline that enriches user comments with LLM-based sentiment analysis (Gemini) and stores results in BigQuery
 
-### Data Analysis & Product Insights
+## Data Analysis & Product Insights
 - Apple Product Pricing Analysis → Cross-country price comparison and insights
 
 ### Machine Learning
