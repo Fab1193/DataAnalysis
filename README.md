@@ -7,7 +7,7 @@ My work centers around building end-to-end data solutions, including data extrac
 ## Areas of Focus
 
 - Product Analytics (funnels, conversion, retention)
-- Data Modeling (BigQuery, dbt, SQL)
+- Data Modeling (BigQuery, Dataform, dbt, SQL)
 - Data Pipelines (API ingestion, data workflows)
 - Experimentation & A/B testing
 - Applied Machine Learning & LLM-based analysis
@@ -27,8 +27,8 @@ My work centers around building end-to-end data solutions, including data extrac
 
 ### SQL Analytics
 
-- [User Conversion Funnel SQL](sql/conversion_funnel/daily_user_conversion_funnel.sql)  
-  BigQuery SQL script that models a user-level purchase funnel, tracks conversion across product events, identifies the furthest step reached, classifies drop-off reasons, and calculates time to convert.
+- [Customer Purchase Journey SQL](sql/customer_purchase_journey/daily_customer_purchase_journey.sql)  
+  BigQuery SQL script that models a daily customer-level ecommerce purchase journey. It tracks customers from landing page view to order confirmation, identifies the last completed step, classifies exit stages, and calculates minutes to purchase.
 
 ### Data Pipelines
 
